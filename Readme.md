@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/NavBarExample/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/NavBarExample/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/NavBarExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/NavBarExample/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to: Use Different Scrolling Modes in NavBarControl Groups
 
 
